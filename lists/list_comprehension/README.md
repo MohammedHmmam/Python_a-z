@@ -21,5 +21,6 @@
 
 ## How To read files in this Directory?
 ### Read files in this order:
- *1-iterating_throw_string.py*
- *2-conditional_in_list_comprehension.py*
+ 1. iterating_throw_string.py
+ 2. conditional_in_list_comprehension.py
+ 3. nested_loops.py
