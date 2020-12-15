@@ -18,3 +18,8 @@
 > This is the power of `List Comprehension.`
 
 > It can identify when it receive a string or a tuple and work on it like a list.
+
+## How To read files in this Directory?
+### Read files in this order:
+ *1-iterating_throw_string.py*
+ *2-conditional_in_list_comprehension.py*
